@@ -1,0 +1,24 @@
+# Model weights (1.6 GB+, not for git)
+models/
+
+# Python virtual environments
+venv/
+.venv/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment / secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Claude Code session state
+.claude/
+
+# Logs
+*.log
